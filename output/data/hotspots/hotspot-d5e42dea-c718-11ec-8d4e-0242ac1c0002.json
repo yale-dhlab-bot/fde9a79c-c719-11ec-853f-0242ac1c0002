@@ -1,0 +1,158 @@
+[
+    {
+        "images": [
+            10,
+            13,
+            20,
+            26,
+            29,
+            32,
+            37,
+            38,
+            42,
+            44,
+            45,
+            48,
+            49,
+            50,
+            57,
+            58,
+            62,
+            65,
+            73,
+            83
+        ],
+        "img": "8b.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0,
+            3,
+            11,
+            15,
+            25,
+            31,
+            41,
+            54,
+            60,
+            71,
+            75,
+            80,
+            88
+        ],
+        "img": "9c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            4,
+            8,
+            12,
+            16,
+            23,
+            36,
+            59,
+            72,
+            79,
+            85,
+            87,
+            89
+        ],
+        "img": "9d.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            14,
+            17,
+            19,
+            33,
+            40,
+            53,
+            66,
+            74
+        ],
+        "img": "5b.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            1,
+            30,
+            46,
+            47,
+            51,
+            64,
+            86
+        ],
+        "img": "9a.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            5,
+            7,
+            22,
+            35,
+            78,
+            81,
+            84
+        ],
+        "img": "8c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            18,
+            28,
+            55,
+            67,
+            68,
+            76,
+            82
+        ],
+        "img": "7d.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            39,
+            52,
+            56,
+            61,
+            63,
+            77
+        ],
+        "img": "6b.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            2,
+            21,
+            34
+        ],
+        "img": "1b.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            6,
+            24,
+            70
+        ],
+        "img": "4b.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
